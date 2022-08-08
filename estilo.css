@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+    
+}
+
+img  {
+    width: 70px;
+    height: 70px;
+    margin-left: 200px;
+
+}
+
+input {
+    margin-bottom: 5px;
+    padding: 3px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+}
+
+p {
+    padding-right: 15px;
+}
+
+.postcard {
+    margin: auto;
+    margin-top: 150px;
+    padding: 10px;
+    background-color: white;
+    width: 500px;
+    height: 270px;
+    
+}
+
+.header-post {
+    display: flex;
+
+}
+
+.body-post {
+    display: flex;
+}
+
+.form {
+    margin-top: 10px;
+
+}
+
+.footer-post {
+    display: flex;
+    justify-content: center;
+}
